@@ -21,6 +21,7 @@ img {
     transition: margin 0.5s ease-out;
     height:60% ;
     width: 20%; 
+    
     }
 
 .ex1 img:hover {
